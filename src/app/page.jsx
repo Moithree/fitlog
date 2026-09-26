@@ -1,51 +1,22 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Clock, Flame, Star, Plus, Check, ArrowUpDown, Loader2 } from 'lucide-react';
+import { Clock, Flame, Star, Plus, Check, ArrowUpDown } from 'lucide-react';
 import { usePlan } from '@/context/PlanContext';
-
+import workoutData from '@/data/workouts.json';
 
 export default function Home() {
-  const [workouts, setWorkouts] = useState([]);
-  const [loading, setLoading] = useState(true);
   const [sortBy, setSortBy] = useState('default');
   const { todayPlan, addToTodayPlan } = usePlan();
 
-  const API_URL = 'https://api.abcz.workers.dev/api/fitlog';
-
-  useEffect(() => {
-    async function fetchWorkouts() {
-      try {
-        const res = await fetch(API_URL);
-        const data = await res.json();
-        setWorkouts(data);
-      } catch (error) {
-        console.error('Error fetching workouts:', error);
-      } finally {
-        setLoading(false);
-      }
-    }
-
-    fetchWorkouts();
-  }, []);
-
-  const sortedWorkouts = [...workouts].sort((a, b) => {
+  const sortedWorkouts = [...workoutData].sort((a, b) => {
     if (sortBy === 'duration') return (a.duration || 0) - (b.duration || 0);
     if (sortBy === 'calories') return (b.caloriesBurned || b.calories || 0) - (a.caloriesBurned || a.calories || 0);
     if (sortBy === 'rating') return (b.rating || 0) - (a.rating || 0);
     return 0;
   });
-
-  if (loading) {
-    return (
-      <div className="min-h-[60vh] flex flex-col items-center justify-center text-white gap-3">
-        <Loader2 className="w-8 h-8 animate-spin text-[#ccff00]" />
-        <p className="text-sm font-bold tracking-wider uppercase text-neutral-400">Loading Workouts...</p>
-      </div>
-    );
-  }
 
   return (
     <div className="max-w-7xl mx-auto py-8 px-4 md:px-8 space-y-10 bg-black min-h-screen text-white">
