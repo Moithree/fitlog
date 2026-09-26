@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "title": "BARBELL BENCH PRESS",
+    "description": "A compound press that builds chest thickness, triceps, and pressing power from a stable bench.",
+    "category": ["CHEST", "ARMS"],
+    "equipment": "Barbell, Bench",
+    "duration": 25,
+    "calories": 180,
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Lie flat on the bench with your feet planted firmly on the ground.",
+      "Grip the barbell slightly wider than shoulder-width apart.",
+      "Lower the bar slowly to your mid-chest while keeping your elbows at a 45-degree angle.",
+      "Press the bar back up explosively to the starting position."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "INCLINE DUMBBELL PRESS",
+    "description": "Targets the upper pectoral muscles and anterior deltoids using free weights for maximum range.",
+    "category": ["CHEST", "SHOULDERS"],
+    "equipment": "Dumbbells, Incline Bench",
+    "duration": 20,
+    "calories": 150,
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "sets": 3,
+    "reps": "8-10",
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Set the incline bench to a 30-45 degree angle.",
+      "Sit back with a dumbbell in each hand resting on your thighs.",
+      "Kick the weights up to shoulder height and press them straight up.",
+      "Lower slowly until you feel a stretch in your upper chest."
+    ]
+  },
+  {
+    "id": "3",
+    "title": "BARBELL SQUAT",
+    "description": "The king of lower body exercises, strengthening quads, glutes, hamstrings, and core stability.",
+    "category": ["LEGS", "CORE"],
+    "equipment": "Barbell, Squat Rack",
+    "duration": 30,
+    "calories": 220,
+    "rating": 4.9,
+    "difficulty": "Advanced",
+    "sets": 4,
+    "reps": "5",
+    "image": "https://images.unsplash.com/photo-1566241142559-40e1dab266c6?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Position the barbell across your upper back/traps.",
+      "Unrack and step back with feet shoulder-width apart.",
+      "Inhale, brace your core, and squat down until thighs are parallel to the floor.",
+      "Drive up through your heels to return to standing."
+    ]
+  },
+  {
+    "id": "4",
+    "title": "DEADLIFT",
+    "description": "A total-body compound movement emphasizing posterior chain strength and back thickness.",
+    "category": ["BACK", "LEGS"],
+    "equipment": "Barbell",
+    "duration": 35,
+    "calories": 250,
+    "rating": 4.9,
+    "difficulty": "Advanced",
+    "sets": 3,
+    "reps": "5",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Stand with feet hip-width apart, shins close to the bar.",
+      "Hinge at hips, grip the bar, and pull chest up with a flat back.",
+      "Drive through legs to lift the bar close to your body.",
+      "Lock out hips at top, then lower under control."
+    ]
+  },
+  {
+    "id": "5",
+    "title": "PULL-UP",
+    "description": "An essential bodyweight exercise that builds wide lats, upper back density, and grip strength.",
+    "category": ["BACK", "ARMS"],
+    "equipment": "Pull-up Bar",
+    "duration": 15,
+    "calories": 110,
+    "rating": 4.6,
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "8-12",
+    "image": "https://images.unsplash.com/photo-1598971639058-fab3c3109a00?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Grip the pull-up bar with hands wider than shoulder-width, palms facing away.",
+      "Hang with arms fully extended.",
+      "Pull your chest up toward the bar by driving elbows down.",
+      "Pause at the top, then lower back down fully."
+    ]
+  },
+  {
+    "id": "6",
+    "title": "OVERHEAD SHOULDER PRESS",
+    "description": "Builds overhead strength, shoulder width, and upper body posture using a barbell.",
+    "category": ["SHOULDERS", "ARMS"],
+    "equipment": "Barbell",
+    "duration": 20,
+    "calories": 140,
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Hold barbell at upper chest height with hands shoulder-width apart.",
+      "Brace core and glutes to maintain a stable base.",
+      "Press the bar straight overhead until arms fully lock out.",
+      "Lower back down smoothly to shoulder height."
+    ]
+  },
+  {
+    "id": "7",
+    "title": "BARBELL BICEP CURL",
+    "description": "Classic isolation lift designed for maximum bicep engagement and forearm strength.",
+    "category": ["ARMS"],
+    "equipment": "Barbell",
+    "duration": 15,
+    "calories": 90,
+    "rating": 4.5,
+    "difficulty": "Beginner",
+    "sets": 3,
+    "reps": "10-12",
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Stand tall holding a barbell with underhand grip.",
+      "Keep elbows close to your torso at all times.",
+      "Curl weight up toward shoulders while keeping upper arms still.",
+      "Squeeze biceps at peak, then slowly lower."
+    ]
+  },
+  {
+    "id": "8",
+    "title": "TRICEP DIPS",
+    "description": "Bodyweight movement isolating triceps while engaging chest and front shoulders.",
+    "category": ["ARMS", "CHEST"],
+    "equipment": "Dip Station / Parallel Bars",
+    "duration": 15,
+    "calories": 100,
+    "rating": 4.6,
+    "difficulty": "Intermediate",
+    "sets": 3,
+    "reps": "10-15",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Grip parallel bars and push up to starting arm-extended position.",
+      "Lower your body by bending elbows until upper arms are parallel to floor.",
+      "Keep torso slightly upright to isolate triceps.",
+      "Push back up to starting position."
+    ]
+  },
+  {
+    "id": "9",
+    "title": "RUSSIAN TWIST",
+    "description": "Core stability exercise focusing on rotational strength and oblique development.",
+    "category": ["CORE"],
+    "equipment": "Medicine Ball",
+    "duration": 12,
+    "calories": 80,
+    "rating": 4.4,
+    "difficulty": "Beginner",
+    "sets": 3,
+    "reps": "20 (10/side)",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Sit on floor with knees bent and feet elevated slightly.",
+      "Hold medicine ball in front of your chest.",
+      "Twist torso to the right, touching weight to floor.",
+      "Rotate smoothly to the left side and repeat."
+    ]
+  },
+  {
+    "id": "10",
+    "title": "DUMBBELL LATERAL RAISE",
+    "description": "Isolates the side deltoids to create shoulder width and V-taper appearance.",
+    "category": ["SHOULDERS"],
+    "equipment": "Dumbbells",
+    "duration": 15,
+    "calories": 85,
+    "rating": 4.7,
+    "difficulty": "Beginner",
+    "sets": 4,
+    "reps": "12-15",
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Stand holding dumbbells by your sides with slight elbow bend.",
+      "Raise arms out to sides until parallel with floor.",
+      "Pause briefly at top of movement.",
+      "Lower weights back down slowly."
+    ]
+  },
+  {
+    "id": "11",
+    "title": "LEG PRESS",
+    "description": "Machine-based leg workout allowing heavy quad and glute loading with spine support.",
+    "category": ["LEGS"],
+    "equipment": "Leg Press Machine",
+    "duration": 25,
+    "calories": 170,
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "10-12",
+    "image": "https://images.unsplash.com/photo-1566241142559-40e1dab266c6?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Sit in machine, place feet hip-width apart on sled platform.",
+      "Release safety bars and lower weight toward chest until knees reach 90 degrees.",
+      "Press weight back up without locking knees at top.",
+      "Keep lower back flat against seat throughout."
+    ]
+  },
+  {
+    "id": "12",
+    "title": "PLANK WITH ARM LIFT",
+    "description": "Advanced core stabilization challenge testing shoulder anti-rotation and abs.",
+    "category": ["CORE"],
+    "equipment": "Mat",
+    "duration": 10,
+    "calories": 60,
+    "rating": 4.5,
+    "difficulty": "Intermediate",
+    "sets": 3,
+    "reps": "45 secs",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop",
+    "instructions": [
+      "Get into forearm plank position with elbows under shoulders.",
+      "Keep feet hip-width for balance.",
+      "Slowly extend right arm straight forward without twisting hips.",
+      "Lower and repeat on left arm."
+    ]
+  }
+]
