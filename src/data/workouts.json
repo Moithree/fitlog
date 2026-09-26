@@ -1,3 +1,5 @@
+
+
 [
   {
     "id": "1",
@@ -11,7 +13,7 @@
     "difficulty": "Intermediate",
     "sets": 4,
     "reps": "6-8",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&auto=format&fit=crop",
+    "image":"https://img.magnific.com/free-photo/portrait-anime-character-doing-fitness-exercising_23-2151666664.jpg?w=740" ,
     "instructions": [
       "Lie flat on the bench with your feet planted firmly on the ground.",
       "Grip the barbell slightly wider than shoulder-width apart.",
@@ -31,7 +33,7 @@
     "difficulty": "Intermediate",
     "sets": 3,
     "reps": "8-10",
-    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=600&auto=format&fit=crop",
+    "image":  "https://img.magnific.com/free-photo/3d-cartoon-fitness-man_23-2151691400.jpg?w=740",
     "instructions": [
       "Set the incline bench to a 30-45 degree angle.",
       "Sit back with a dumbbell in each hand resting on your thighs.",
@@ -51,7 +53,7 @@
     "difficulty": "Advanced",
     "sets": 4,
     "reps": "5",
-    "image": "https://images.unsplash.com/photo-1566241142559-40e1dab266c6?w=600&auto=format&fit=crop",
+    "image": "https://img.magnific.com/free-photo/3d-cartoon-fitness-man_23-2151691401.jpg?w=740",
     "instructions": [
       "Position the barbell across your upper back/traps.",
       "Unrack and step back with feet shoulder-width apart.",
@@ -71,7 +73,7 @@
     "difficulty": "Advanced",
     "sets": 3,
     "reps": "5",
-    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop",
+    "image": "https://img.magnific.com/free-photo/portrait-anime-character-doing-fitness-exercising_23-2151666703.jpg?w=740",
     "instructions": [
       "Stand with feet hip-width apart, shins close to the bar.",
       "Hinge at hips, grip the bar, and pull chest up with a flat back.",
@@ -91,7 +93,7 @@
     "difficulty": "Intermediate",
     "sets": 4,
     "reps": "8-12",
-    "image": "https://images.unsplash.com/photo-1598971639058-fab3c3109a00?w=600&auto=format&fit=crop",
+    "image": "https://img.magnific.com/free-photo/portrait-anime-character-doing-fitness-exercising_23-2151666702.jpg?w=740",
     "instructions": [
       "Grip the pull-up bar with hands wider than shoulder-width, palms facing away.",
       "Hang with arms fully extended.",
@@ -111,7 +113,7 @@
     "difficulty": "Intermediate",
     "sets": 4,
     "reps": "6-8",
-    "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?w=600&auto=format&fit=crop",
+    "image": "https://img.magnific.com/free-photo/3d-cartoon-fitness-man_23-2151691489.jpg?w=740",
     "instructions": [
       "Hold barbell at upper chest height with hands shoulder-width apart.",
       "Brace core and glutes to maintain a stable base.",
@@ -131,7 +133,7 @@
     "difficulty": "Beginner",
     "sets": 3,
     "reps": "10-12",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=600&auto=format&fit=crop",
+    "image": "https://img.magnific.com/free-photo/3d-cartoon-business-character_1048-16544.jpg?w=740",
     "instructions": [
       "Stand tall holding a barbell with underhand grip.",
       "Keep elbows close to your torso at all times.",
@@ -151,7 +153,7 @@
     "difficulty": "Intermediate",
     "sets": 3,
     "reps": "10-15",
-    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&auto=format&fit=crop",
+    "image": "https://img.magnific.com/free-photo/portrait-anime-character-doing-fitness-exercising_23-2151666704.jpg?w=740",
     "instructions": [
       "Grip parallel bars and push up to starting arm-extended position.",
       "Lower your body by bending elbows until upper arms are parallel to floor.",
@@ -171,7 +173,7 @@
     "difficulty": "Beginner",
     "sets": 3,
     "reps": "20 (10/side)",
-    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop",
+    "image": "https://img.magnific.com/free-photo/3d-cartoon-fitness-man_23-2151691429.jpg?w=740",
     "instructions": [
       "Sit on floor with knees bent and feet elevated slightly.",
       "Hold medicine ball in front of your chest.",
@@ -191,7 +193,7 @@
     "difficulty": "Beginner",
     "sets": 4,
     "reps": "12-15",
-    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=600&auto=format&fit=crop",
+    "image": "https://img.magnific.com/free-photo/portrait-anime-character-doing-fitness-exercising_23-2151666701.jpg?w=740",
     "instructions": [
       "Stand holding dumbbells by your sides with slight elbow bend.",
       "Raise arms out to sides until parallel with floor.",
@@ -211,7 +213,7 @@
     "difficulty": "Intermediate",
     "sets": 4,
     "reps": "10-12",
-    "image": "https://images.unsplash.com/photo-1566241142559-40e1dab266c6?w=600&auto=format&fit=crop",
+    "image": "https://img.magnific.com/free-photo/3d-cartoon-fitness-man_23-2151691487.jpg?w=740",
     "instructions": [
       "Sit in machine, place feet hip-width apart on sled platform.",
       "Release safety bars and lower weight toward chest until knees reach 90 degrees.",
@@ -231,7 +233,7 @@
     "difficulty": "Intermediate",
     "sets": 3,
     "reps": "45 secs",
-    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop",
+    "image": "https://img.magnific.com/free-photo/3d-cartoon-fitness-man_23-2151691505.jpg?w=740",
     "instructions": [
       "Get into forearm plank position with elbows under shoulders.",
       "Keep feet hip-width for balance.",

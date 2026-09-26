@@ -1,6 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
+  images: {
+    remotePatterns: [
+      { protocol: 'https', hostname: '**' }, // সব ওয়েবসাইটের ছবি অ্যালাউ করার জন্য
+    ],
+  },
 };
 
 export default nextConfig;
