@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🏋️‍♂️ FitLog — Dark, No-Nonsense Gym Companion
 
-## Getting Started
+FitLog is a modern, responsive web application designed as a daily workout library and planner. Pick your lifts, lock them into today's plan, track duration, calories burned, and stay on top of your gym routines.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo & Repository
+- **Live Demo:** [Insert Your Live Deployment URL Here]
+- **GitHub Repository:** [Insert Your GitHub Repo URL Here]
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🔥 Key Features (Minimum 5)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Interactive Workout Library & Filtering/Sorting:** Browse through 12 lifts targeting all major muscle groups with dynamic sorting by Duration, Calories burned, and Rating.
+2. **Dynamic My Plan & Live Metrics Tracking:** Add up to 5 exercises to today's daily cap. Live update cards calculate total planned exercises, duration (minutes), and total estimated calories burned.
+3. **Save for Later & Daily Plan Badges:** Persistent status counters in the top navigation bar highlighting the number of active planned lifts and saved exercises.
+4. **Detailed Lift Specifications & Instructions:** Comprehensive individual exercise pages with step-by-step instructions, equipment required, difficulty, target sets, and reps.
+5. **Interactive Routine Logging:** Mark workouts as completed ("Mark as Done") or remove them with smooth toast notifications and persistent state management (`localStorage`).
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Technologies Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Icons:** [Lucide React](https://lucide.react.dev/)
+- **Notifications:** [React Hot Toast](https://react-hot-toast.com/)
+- **Deployment:** [Vercel](https://vercel.com/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 💻 Local Setup Instructions
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Clone the repository:
+   ```bash
+   git clone <your-github-repo-url>
+   cd fitlog
